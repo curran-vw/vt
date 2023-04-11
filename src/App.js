@@ -23,7 +23,7 @@ function App() {
         <div>
             <h1>Simple Website Traffic Tracker</h1>
             <button onClick={copySnippet}>Copy JavaScript Snippet</button>
-            <textarea id="snippet" readOnly value="<script src='https://rocky-hollows-13643.herokuapp.com/tracker.js'></script>" />
+            <textarea  id="snippet"  readOnly  value="<script src='https://cdn.jsdelivr.net/gh/https://github.com/curran-vw/vt/blob/master/tracker.js'></script>"/>
             <h2>Visitor Sessions</h2>
             <table>
                 <thead>
